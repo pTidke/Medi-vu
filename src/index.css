@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Aptos';
+  src: url('./assets/fonts/Aptos.ttf') format('ttf'),
+    url('./assets/fonts/Aptos.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'Aptos', sans-serif;
+  background-color: #f9f9f9;
+  /* Light background for clean design */
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  /* Remove underline */
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+  /* Ensure headers are white */
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+}
