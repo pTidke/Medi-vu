@@ -119,8 +119,8 @@ const styles = {
 		textAlign: "justify", // Justify the cleanup text
 	},
 	logo: {
-		width: "680px",
-		height: "200px",
+		width: "600px",
+		height: "180px",
 		objectFit: "cover",
 		marginBottom: "1rem",
 	},
