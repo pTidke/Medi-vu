@@ -35,21 +35,6 @@ Medi-vu is a data-driven tool designed to analyze and visualize healthcare acces
 
 ---
 
-## Visualizations
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Healthcare+Metrics+Map" alt="Healthcare Metrics Map" width="600">
-  <p><i>Figure 1: Healthcare Metrics Map - Nurse staffing, bed deficits, and facility distribution.</i></p>
-  
-  <img src="https://via.placeholder.com/600x300?text=Disease+Mortality+Trends" alt="Disease Mortality Trends" width="600">
-  <p><i>Figure 2: Disease Mortality Trends - Highlights high-risk regions for disease prevalence.</i></p>
-  
-  <img src="https://via.placeholder.com/600x300?text=Healthcare+Access+Rankings" alt="Healthcare Access Rankings" width="600">
-  <p><i>Figure 3: Healthcare Access Rankings - Identifies underserved areas for targeted improvements.</i></p>
-</div>
-
----
-
 ## Key Insights
 
 - Significant disparities in nurse-to-patient ratios and bed availability across regions.
