@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Medi-vu: Geographic-Based Healthcare Access and Disease Analysis Tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Quick Links:
+- [Tableau Dashboard](https://public.tableau.com/views/MediVu/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [YouTube Video](https://www.youtube.com/watch?v=uK0nkh77ObQ)
+- [Project Website](https://sites.google.com/sdsu.edu/medi-vu/home?authuser=0)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+Medi-vu is a data-driven tool designed to analyze and visualize healthcare accessibility and disease prevalence across California. The project addresses disparities in healthcare access, integrating critical hospital metrics with disease data to identify underserved regions and inform targeted interventions.
 
-### `npm start`
+## Features
+- **Healthcare Accessibility Ranking:** Analyzes nurse-to-patient ratios, bed availability, and healthcare professional deficits.
+- **Disease Mortality Analysis:** Identifies high-mortality regions for major diseases such as heart disease, cancer, and Alzheimer's.
+- **Interactive Dashboard:** Visualizes healthcare and disease trends using geospatial mapping with Tableau.
+- **Data Integration:** Combines diverse datasets, including hospital infrastructure, Medi-Cal providers, and mortality rates.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+- **Data Processing:** Python, CSV, and Excel-based cleaning and integration.
+- **Geospatial Analysis:** Tableau for mapping and visualization.
+- **Datasets:** Includes data on hospital metrics, Medi-Cal providers, mortality rates, and population density.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Visualizations
+1. **Healthcare Metrics Map:** Displays nurse staffing, bed deficits, and facility distribution.
+2. **Disease Mortality Trends:** Highlights high-risk regions for disease prevalence.
+3. **Healthcare Access Rankings:** Identifies underserved areas for targeted improvements.
 
-### `npm test`
+## Key Insights
+- Significant disparities in nurse-to-patient ratios and bed availability across regions.
+- Overlap between high disease mortality rates and limited healthcare accessibility.
+- Urban and coastal areas often have better healthcare infrastructure compared to rural regions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Recommendations
+- Expand healthcare facilities in underserved regions.
+- Deploy mobile healthcare units in rural areas.
+- Focus on preventive care for high-mortality diseases.
+- Use predictive analytics to address future healthcare needs.
 
-### `npm run build`
+## Future Development
+- Incorporate real-time data for dynamic analysis.
+- Enhance geospatial precision with shapefiles and GeoJSON.
+- Develop a web-based interactive dashboard.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Group Members
+- **Prajwal Tidke:** Team Lead, Data Analysis, and Integration.
+- **Palash Suryawanshi:** Data Visualization and Disease Analysis.
+- **Meet Gajjar:** Data Collection, Cleanup, and Preprocessing.
+- **Narsimha Atla:** Data Visualization and Facility Analysis.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to explore the codebase and contribute to further improve Medi-vu!
