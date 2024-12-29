@@ -1,6 +1,6 @@
 # Medi-vu: Geographic-Based Healthcare Access and Disease Analysis Tool
 
-<div align="center">
+<div align="left">
   <a href="https://public.tableau.com/views/MediVu/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img src="https://img.shields.io/badge/Explore-Tableau%20Dashboard-blue?style=for-the-badge" alt="Tableau Dashboard">
   </a>
@@ -30,7 +30,7 @@ Medi-vu is a data-driven tool designed to analyze and visualize healthcare acces
 ## Technologies Used
 
 - **Data Processing:** Python, CSV, and Excel-based cleaning and integration.
-- **Geospatial Analysis:** Tableau for mapping and visualization.
+- **Geospatial Analysis:** ArcGIS & Tableau for mapping and visualization.
 - **Datasets:** Includes data on hospital metrics, Medi-Cal providers, mortality rates, and population density.
 
 ---
@@ -62,7 +62,7 @@ Medi-vu is a data-driven tool designed to analyze and visualize healthcare acces
 
 ## Group Members
 
-<table align="center">
+<table align="centre">
   <tr>
     <th>Name</th>
     <th>Role</th>
@@ -91,7 +91,6 @@ Medi-vu is a data-driven tool designed to analyze and visualize healthcare acces
 
 - [California Health Care Almanac](https://www.chcf.org/publication/2019-edition-health-disparities-by-race/)
 - [PLOS ONE Equity Analysis](https://doi.org/10.1371/journal.pone.0290692)
-- [Project Website](https://sites.google.com/sdsu.edu/medi-vu/home?authuser=0)
 
 ---
 
