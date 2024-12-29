@@ -87,13 +87,6 @@ Medi-vu is a data-driven tool designed to analyze and visualize healthcare acces
 
 ---
 
-## References
-
-- [California Health Care Almanac](https://www.chcf.org/publication/2019-edition-health-disparities-by-race/)
-- [PLOS ONE Equity Analysis](https://doi.org/10.1371/journal.pone.0290692)
-
----
-
 <div align="center">
   <h3>Feel free to explore the codebase and contribute to further improve Medi-vu!</h3>
 </div>
